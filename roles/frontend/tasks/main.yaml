@@ -1,4 +1,4 @@
-- name: configuring frontend component
+- name: configure frontend component
   hosts: frontend
   become: yes
   tasks:
